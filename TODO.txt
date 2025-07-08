@@ -1,0 +1,5 @@
+PAGOS COMPARTIDOS
+
+ver deudas
+pagar deuda
+añadir persona
